@@ -1,4 +1,4 @@
 # first_file
 Just have a try!
 It is amazing!
-Use git to help me.
+Use git and github to help me!
